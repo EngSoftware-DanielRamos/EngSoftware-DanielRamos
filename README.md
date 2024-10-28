@@ -1,7 +1,7 @@
 ## Olá! Eu sou Daniel Ramos
 
 - 👨🏻‍💻 Trabalho com front-end
-- 📚 Estudando Python
+- 📚 Graduando em Engenharia de Software
 
 <div>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
