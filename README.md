@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Ramos
 
-- 👨🏻‍💻 Trabalho com front-end
+- 👨🏻‍💻 Desenvolvedor FullStack Junior
 - 📚 Graduando em Engenharia de Software
 
 <div>
